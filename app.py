@@ -211,7 +211,7 @@ def send_emergency_email():
                     </div>
                     
                     <div class="action-buttons">
-                        <a href="tel:+201000000000" class="btn">📞 Call Emergency</a>
+                        <a href="tel:+201277294555" class="btn">📞 Call Emergency</a>
                         <a href="https://maps.google.com/?q=30.386,30.489" class="btn" target="_blank">🗺️ View on Map</a>
                     </div>
                     
